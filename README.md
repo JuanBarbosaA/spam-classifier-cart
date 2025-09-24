@@ -19,7 +19,7 @@ El procedimiento consistió en:
   - Promedios y desviaciones estándar  
   - Cálculo de **Z-Score** para detectar valores atípicos (outliers).  
 - Representar gráficamente la distribución y variación de los resultados, con el fin de visualizar la estabilidad del modelo.  
-- Guardar los resultados obtenidos en un archivo CSV llamado [resultados_spam.csv](data/resultados_spam.csv) para su posterior análisis.
+- Guardar los resultados obtenidos en un archivo CSV llamado [resultados_spam.csv](results/resultados_spam.csv) para su posterior análisis.
 
 ---
 
