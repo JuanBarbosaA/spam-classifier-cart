@@ -1,6 +1,6 @@
 # Árbol de decisión CART aplicado al dataset de spam
 
-**Presentado por:**  
+**Realizado por:**  
 - Christian Barreto  
 - Juan Barbosa Avella  
 
